@@ -1,0 +1,13 @@
+C:\Users\reinh\Desktop\EPI_USE Technical Assessment\C#_Program\POC_Assessment_Application\bin\Debug\POC_Assessment_Application.exe.config
+C:\Users\reinh\Desktop\EPI_USE Technical Assessment\C#_Program\POC_Assessment_Application\bin\Debug\POC_Assessment_Application.exe
+C:\Users\reinh\Desktop\EPI_USE Technical Assessment\C#_Program\POC_Assessment_Application\bin\Debug\POC_Assessment_Application.pdb
+C:\Users\reinh\Desktop\EPI_USE Technical Assessment\C#_Program\POC_Assessment_Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\reinh\Desktop\EPI_USE Technical Assessment\C#_Program\POC_Assessment_Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\reinh\Desktop\EPI_USE Technical Assessment\C#_Program\POC_Assessment_Application\obj\Debug\POC_Assessment_Application.csprojAssemblyReference.cache
+C:\Users\reinh\Desktop\EPI_USE Technical Assessment\C#_Program\POC_Assessment_Application\obj\Debug\POC_Assessment_Application.Form1.resources
+C:\Users\reinh\Desktop\EPI_USE Technical Assessment\C#_Program\POC_Assessment_Application\obj\Debug\POC_Assessment_Application.Properties.Resources.resources
+C:\Users\reinh\Desktop\EPI_USE Technical Assessment\C#_Program\POC_Assessment_Application\obj\Debug\POC_Assessment_Application.csproj.GenerateResource.cache
+C:\Users\reinh\Desktop\EPI_USE Technical Assessment\C#_Program\POC_Assessment_Application\obj\Debug\POC_Assessment_Application.csproj.CoreCompileInputs.cache
+C:\Users\reinh\Desktop\EPI_USE Technical Assessment\C#_Program\POC_Assessment_Application\obj\Debug\POC_Assessment_Application.csproj.CopyComplete
+C:\Users\reinh\Desktop\EPI_USE Technical Assessment\C#_Program\POC_Assessment_Application\obj\Debug\POC_Assessment_Application.exe
+C:\Users\reinh\Desktop\EPI_USE Technical Assessment\C#_Program\POC_Assessment_Application\obj\Debug\POC_Assessment_Application.pdb

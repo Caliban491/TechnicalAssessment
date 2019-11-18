@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_Assessment_Application", "POC_Assessment_Application.csproj", "{344898EB-C3F5-4199-8BEA-06DDBB8D735F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "POC_Setup", "..\POC_Setup\POC_Setup.vdproj", "{E90538A9-1474-483C-ABDD-E4F2C7306D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{344898EB-C3F5-4199-8BEA-06DDBB8D735F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344898EB-C3F5-4199-8BEA-06DDBB8D735F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344898EB-C3F5-4199-8BEA-06DDBB8D735F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344898EB-C3F5-4199-8BEA-06DDBB8D735F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90538A9-1474-483C-ABDD-E4F2C7306D15}.Debug|Any CPU.ActiveCfg = Debug
+		{E90538A9-1474-483C-ABDD-E4F2C7306D15}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {180EDBFB-9718-4679-9FB0-EEA7B6796941}
+	EndGlobalSection
+EndGlobal
